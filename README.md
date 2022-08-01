@@ -25,9 +25,9 @@
 ## 👨🏽‍🦲 &nbsp;Social Links
 <p align="left" style="background:yellow">
 <a href="https://twitter.com/imdavys" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/-davysilva-05122A?style=flat&logo=twitter" alt="twitter"/>  
+  <img align="center" src="https://img.shields.io/badge/-imdavys-05122A?style=flat&logo=twitter" alt="twitter"/>  
 </a>
 <a href="https://instagram.com/dxvysilva" target="_blank">
- <img align="center" src="https://img.shields.io/badge/-davysilva-05122A?style=flat&logo=instagram" alt="instagram"/>
+ <img align="center" src="https://img.shields.io/badge/-dxvysilva-05122A?style=flat&logo=instagram" alt="instagram"/>
 </a>
 </p>
