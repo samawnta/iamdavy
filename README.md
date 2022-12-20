@@ -15,7 +15,7 @@
 
 </table>
 <div align="center" valign="top">
-<img alt="Davy-Csharp" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
+<img alt="Davy-Csharp" src="https://img.shields.io/badge/-C%23-05122A?style=flat&logo=C-sharp&logoColor=1572B6">
 <img alt=Davy-C src="https://img.shields.io/badge/-C-05122A?style=flat&logo=C">
 <img alt=Davy-HTML src="https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5">
 <img alt=Davy-CSS src="https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6">
