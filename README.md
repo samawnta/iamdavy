@@ -1,6 +1,5 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'm Davy Silva </h1>
 
-- 🔥 Júnior Developer
 - 👨‍💻 Academic in Information Systems
 - 🌱 I’m currently learning C#
 <br><br>
